@@ -13,7 +13,7 @@ winnerSound = pygame.mixer.Sound('subtract a square assets/sound effects/Winner 
 beepSound = pygame.mixer.Sound('subtract a square assets/sound effects/beep sound effect.mp3')
 start_menu_screen = pygame.display.set_mode((WIDTH, HEIGHT))
 game_screen = pygame.display.set_mode((WIDTH, HEIGHT))
-FPS = 220
+FPS = 120
 player_number = 0
 
 
